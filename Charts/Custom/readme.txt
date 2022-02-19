@@ -1,5 +1,1 @@
-Custom Chart
-
-Music by stev
-
-https://youtu.be/64EDyceo0bw
+Charts made from other songs. 
