@@ -1,5 +1,5 @@
 Forget to mention, errie was made by subicat.
 
-what the-, this song is old but i chart in anyway.
+what the-,  I didn't realise that this song was old, but I charted it anyway.
 
 Original Song: https://www.youtube.com/watch?v=pwWyVyUvpLA
