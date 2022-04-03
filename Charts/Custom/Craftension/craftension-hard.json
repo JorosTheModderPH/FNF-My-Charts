@@ -2,7 +2,7 @@
    "song" : {
       "bpm" : 100,
       "events" : [],
-      "gfVersion" : "gf",
+      "gfVersion" : "gf-christmas",
       "needsVoices" : true,
       "notes" : [
          {
